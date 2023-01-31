@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ninjadrupal
 - 👀 I’m interested in #DevOps - #Drupa  - #books 
-- 🌱 I’m currently learning Shopfy Api to builde modules / themes 
+- 🌱 I’m currently preparing for an "aws certified solutions architect associate"
 - 💞️ I’m looking to collaborate on  any project relate to topcs abouve 
 - 📫 How to reach me mustapha.ghazali.1@gmail.com  & https://ghazali.cc/
 
